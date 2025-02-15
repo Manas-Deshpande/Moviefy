@@ -1,5 +1,6 @@
 # Moviefy
 Project Description:
+
 Developed a Movie Search Application (MOVIEFY) using HTML, CSS, and JavaScript, leveraging the OMDB API to provide users with detailed information about movies. The application features a user-friendly interface where users can search for any movie by title and instantly access comprehensive details, including the movie's title, director, cast, plot summary, genre, release date, box office collection, awards, IMDb ratings, and poster.
 
 Key features of the application include:
